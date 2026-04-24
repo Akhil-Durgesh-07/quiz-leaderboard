@@ -10,14 +10,15 @@ PROCESS:
 5. submitted final result via POST API method
 
 OUTPUT:
-Diana - 470
-Ethan - 455
-Fiona - 440
+Diana - 470,
+Ethan - 455,
+Fiona - 440.
 
 Total score - 365
 
 SCREENSHORT:
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8937871c-e480-4967-9f89-830a4524369b" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5b446044-d366-49af-a2bf-05cff3d87a91" />
+
 
 
 
