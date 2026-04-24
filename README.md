@@ -14,7 +14,7 @@ Diana - 470,
 Ethan - 455,
 Fiona - 440.
 
-Total score - 365
+Total score - 1365
 
 SCREENSHORT:
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5b446044-d366-49af-a2bf-05cff3d87a91" />
